@@ -16,7 +16,7 @@
 ####●EasyMath.isPrime(int p)
 ####●EasyMath.absoluteValue(long n)
 ####●EasyMath.squareRoot(int n) 
-####●EasyMath.getNubersOfDigit(int n)
+####●EasyMath.getNumbersOfDigit(int n)
 
 ## Team Members:
 - Enes GÜNDAY   : *opsenes@gmail.com*
