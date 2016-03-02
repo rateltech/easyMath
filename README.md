@@ -5,13 +5,17 @@
 
 ####●EasyMath.Combination(int n, int r)
 ####●EasyMath.Permutation(int n, int r)
-####●EasyMath.TransposeMatrix(int [][] matrix)
+####●EasyMath.TransposeMatrix(int [][] n)
+####●EasyMath.print2DMatrix(int[][] n)
+####●EasyMath.multiply2DMatrix(int[][] firstMatrix,int[][] secondMatrix)
 ####●EasyMath.isGoldenRatio(int x, int y)
 ####●EasyMath.digitsOfFactorial(int n)
 ####●EasyMath.Logarithm(int base, int n)
 ####●EasyMath.findPower(int base, int result)
 ####●EasyMath.power(int base, int power)
 ####●EasyMath.isPrime(int p)
+####●EasyMath.absoluteValue(long n)
+####●EasyMath.squareRoot(int n) 
 
 ## Team Members:
 - Enes GÜNDAY   : *opsenes@gmail.com*
