@@ -3,13 +3,13 @@
 <hr>
 ##Functions
 <hr>
-●###EasyMath.Combination(int n, int r)
-●###EasyMath.Permutation(int n, int r)
-●###EasyMath.TransposeMatrix(int [][] matrix)
-●###EasyMath.isGoldenRatio(int x, int y)
-●###EasyMath.digitsOfFactorial(int n)
-●###EasyMath.Logarithm(int base, int n)
-●###EasyMath.findPower(int base, int result)
-●###EasyMath.power(int base, int power)
-●###EasyMath.isPrime(int p)
+###●EasyMath.Combination(int n, int r)
+###●EasyMath.Permutation(int n, int r)
+###●EasyMath.TransposeMatrix(int [][] matrix)
+###●EasyMath.isGoldenRatio(int x, int y)
+###●EasyMath.digitsOfFactorial(int n)
+###●EasyMath.Logarithm(int base, int n)
+###●EasyMath.findPower(int base, int result)
+###●EasyMath.power(int base, int power)
+###●EasyMath.isPrime(int p)
 
