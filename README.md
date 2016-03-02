@@ -13,6 +13,6 @@
 ####●EasyMath.power(int base, int power)
 ####●EasyMath.isPrime(int p)
 
-#### Team Members:
+## Team Members:
 - Enes GÜNDAY   : *opsenes@gmail.com*
 - Ozan Onur Tek : *ozanonurtek@gmail.com*
