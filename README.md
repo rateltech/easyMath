@@ -1,7 +1,7 @@
 # EasyMath
 ##EasyMath is a java external library that includes following specific mathematical methods and operations:
 
-##Functions
+##Methods
 
 ####●EasyMath.Combination(int n, int r)
 ####●EasyMath.Permutation(int n, int r)
