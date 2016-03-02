@@ -5,18 +5,18 @@
 
 ####●EasyMath.Combination(int n, int r)
 ####●EasyMath.Permutation(int n, int r)
-####●EasyMath.TransposeMatrix(int [][] n)
-####●EasyMath.print2DMatrix(int[][] n)
-####●EasyMath.multiply2DMatrix(int[][] firstMatrix,int[][] secondMatrix)
-####●EasyMath.isGoldenRatio(int x, int y)
-####●EasyMath.digitsOfFactorial(int n)
-####●EasyMath.Logarithm(int base, int n)
-####●EasyMath.findPower(int base, int result)
-####●EasyMath.power(int base, int power)
-####●EasyMath.isPrime(int p)
-####●EasyMath.absoluteValue(long n)
-####●EasyMath.squareRoot(int n) 
-####●EasyMath.getNumbersOfDigit(int n)
+####●EasyMath.TransposeMatrix(int [][] n) **DONE**
+####●EasyMath.print2DMatrix(int[][] n)  **DONE**
+####●EasyMath.multiply2DMatrix(int[][] firstMatrix,int[][] secondMatrix)  **DONE**
+####●EasyMath.isGoldenRatio(int x, int y) **DONE**
+####●EasyMath.digitsOfFactorial(int n)  **DONE**
+####●EasyMath.Logarithm(int base, int n)  
+####●EasyMath.findPower(int base, int result) 
+####●EasyMath.power(int base, int power)  **DONE**
+####●EasyMath.isPrime(int p)  **DONE**
+####●EasyMath.absoluteValue(long n) **DONE**
+####●EasyMath.squareRoot(int n)   **DONE**
+####●EasyMath.getNumbersOfDigit(int n)  **DONE**
 
 ## Team Members:
 - Enes GÜNDAY   : *opsenes@gmail.com*
