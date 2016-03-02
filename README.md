@@ -1,5 +1,5 @@
 # EasyMath
-##EasyMath is a java external library that includes following specific mathematical functions and operations:
+##EasyMath is a java external library that includes following specific mathematical methods and operations:
 
 ##Functions
 
