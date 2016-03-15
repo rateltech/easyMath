@@ -4,4 +4,3 @@
 			return true;
 		return false;
 	}
-ABSAS
